@@ -1,0 +1,204 @@
+---
+title: "Utilization of cervical cancer screening by cytology and the burden of epithelial abnormalities: A tertiary-center 42-years study"
+author: "Early Cancer Detection Collaborators"
+format: html
+editor: visual
+bibliography: pap.bib
+csl: vancouver.csl
+---
+
+# Abstract
+
+Background: cytological screening is a high impact practice that helps to reduce cervical cancer incidence and mortality. While few studies examined the efforts to decrease cervical cancer’s burden in Egypt, no study has reported the temporal trends in cervical cancer screening practice and burden of epithelial abnormalities. We sought to fill this knowledge gap by analyzing data collected at the Early Cancer Detection Unit, Ain Shams University Hospital in Egypt.
+
+Methods: Routinely collected healthcare data from March 1981 to December 2022 were analyzed to identify trends in screening uptake and the incidence of epithelial abnormalities. Analyses were used to describe the trend of utilization and the burden of epithelial abnormalities over this period.
+
+```{r echo=FALSE, include=FALSE}
+abcy = 5174/95120
+LGSIL = 4144/5174
+ASC = 378/5174
+HGSIL = 226/5174
+ag = 184/5174
+ac = 165/5174
+scc = 70/5174
+gc = 7/5174
+options(digits = 4)
+```
+
+Results: A total of 95120 samples were found to be satisfactory and were included in the analyses. The mean age of included women was 38.5 (10.5). Abnormal epithelial cells were reported in 5174 of the samples (`r abcy`). The most frequent epithelial cell abnormalities were low grade squamous intra-epithelial lesion in 4144 women (`r LGSIL`), followed by atypical squamous cells in 378 women (`r ASC`), high grade squamous intraepithelial lesion in 226 women (`r HGSIL`), and squamous cell carcinoma in 70 women (`r scc`). There were 184 (`r ag`) atypical glandular NOS (not otherwise specified) and 165 (`r ac`) adenocarcinoma observations. The observed rate of pre-malignant lesions (ASC, LGSIL, and HGSIL) showed fluctuation in the period of data collection. The rate started with about 10% in 1981 and ended by 5% in 2022.
+
+Conclusions: Our results highlighted the trends in cervical cancer screening in Egypt among those women screened in a large tertiary university center.
+
+# Keywords
+
+# Background
+
+Cervical cancer, a matter of public health concern, is ranked as the fourth most prevalent form of cancer in women worldwide. In the context of Egypt, it is the 14th most commonly occurring cancer among women. @ferlay2020
+
+The natural history of cervical cancer has been extensively documented. There is widespread acceptance of a multi-step carcinogenesis model, wherein the critical stages are HPV infection, progression to pre-cancerous state, and subsequent development of invasive cancer. @Schiffman2016
+
+Cervical cancer is largely preventable, and there has been a decline in its incidence over the past few decades in most countries, although the extent of this reduction varies. This decline can be attributed to both vaccination and screening for precursor lesions, followed by appropriate follow-up and treatment. [@Bouvard2021; @WHO2021] This has formed the foundation for the World Health Organization (WHO) global initiative to eliminate cervical cancer as a public health problem. One cornerstone of this initiative is achieving a target of 70% screening coverage of women aged 30–49 years with a high-performance test. @wh2020
+
+A screening program is the initial mandatory step of a process, specifically screening, triage of individuals with positive screening results, confirmation through biopsy, and treatment of individuals with precancerous lesions. @Bouvard2021
+
+Screening is available in many countries through either population-based (organized) or non-population-based (unorganized) programs, as well as through opportunistic screening. Participation rates and coverage vary significantly across countries and settings. The key factors influencing participation are socioeconomic status, health insurance coverage, public awareness, and level of education. Additionally, some women may face barriers to accessing these services due to a lack of power, authority, or control, which can be major obstacles to their participation. @Gakidou2008
+
+According to the 2015 Egypt Health Issues Survey, the knowledge and utilization of pap smears for cervical cancer screening among women is quite limited. Only 7 percent of women between the ages of 15 and 59 had ever heard of a pap smear, and a very small percentage (0.3 percent) had actually undergone the procedure. The proportion of women who were aware of pap smears exceeded 10 percent only among women residing in urban governorates (14 percent), women working for cash (13 percent), and women in the highest wealth quintile (11 percent). In all subgroups, one percent or less of women reported ever having had a pap smear. @Health2015
+
+Given the limited knowledge and low utilization of cervical screening among Egyptian women, coupled with the absence of a well-established and sustained population-based screening program, there is a lack of comprehensive understanding regarding the trends of epithelial abnormalities in cervical cytology within the largest population in Africa and the Middle East. Previous research has not thoroughly investigated the outcomes of cervical cancer screening among Egyptian women and how they evolve over time. Therefore, our objective is to examine the temporal trends in cervical cytology practice and the observed epithelial abnormalities.
+
+# Methods
+
+This observational study used routinely collected health data from the Early Cancer Detection Unit (ECDU) following Institutional Review Board approval from the Department of Obstetrics and Gynecology, Ain Shams University, Cairo, Egypt. Informed consent from participants was not collected as all analyses were conducted using de-identified data collected in the process of healthcare administration at the University Hospital.
+
+## Study Population and Data Source
+
+ECDU began opportunistic screening and treatment for cervical cancer in March 1981. ECDU provides the service at a subsidized cost that is much cheaper than women would find at other healthcare facilities in Egypt. Participants included all adult women who did not have any prior screening in 10 years and who underwent conventional cervical screening in the ECDU from March 1981 to December 2022.
+
+No formal referral process exists between healthcare facilities in Egypt. However, the resources available at ECDU for the detection and treatment of cervical cancer make obtaining screening at ECDU an essential step in the continuum of cancer prevention and control within the country. As a result, many women are referred to ECDU from public or private healthcare facilities across Egypt to obtain a pap smear, to obtain follow-up evaluations after a suspicious screening using other methods such as visual inspection aided by acetic acid or Lugol’s iodine, or to begin the process of cancer treatment. ECDU does not employ a systematic method of recruiting women to undergo cervical cancer screening, therefore, the women either self-referred or were referred by a healthcare provider for screening. Data identifying the source of referral for screening as the individual or a healthcare provider were not captured in this dataset. According to ECDU institutional practice, women who have low-grade infections at the time of a pap smear are screened again within 6 months of the prior visit, indicating that women often had multiple screening visits.
+
+The ECDU started to use an electronic database in 1986, in addition to paper records, to capture relevant demographics (i.e. age, address, marital status, number of pregnancies), risk factors for cervical cancer (i.e. previous sexually transmitted infections, parity, oral contraceptive use), and clinical outcomes (outcomes of pap smear) of women who were screened at the clinic. At the first pap smear, a unique identifying number that was used to update each woman's record. The database has been maintained since its inception, making it an excellent source of longitudinal data to examine trends in cervical cancer screening in a tertiary university healthcare facility in Egypt. All paper records, prior to the establishment of the electronic record system, were transcribed into the database.
+
+Cervical cytology (Pap smear) was obtained using an Ayer's spatula and spread over a marked glass slide, which was placed in 95% ethyl alcohol and sent to the cytopathology laboratory for conventional cytology examination. Data were recorded using a structured form. The results of the examined smears were reported according to The Bethesda System for Reporting Cervical Cytology. The terminology of CIN1, 2, and 3 was used in the ECDU till 2004. Following the adoption of the Bethesda system, the ECDU transformed all data to match the new system terminology.
+
+## Data analyses
+
+ECDU provided a de-identified dataset spanning a 42-year period. We used this dataset to describe clinical and demographic characteristics of screened women, to examine longitudinal trends in screening utilization, and to report the trends of epithelial abnormalities.
+
+Epithelial abnormalities captured at screening were categorized into normal results, low-grade abnormalities (Atypical Squamous Cells of Undetermined Significance or AS-CUS, and Low-grade Squamous Intraepithelial Lesion or LSIL classifications), and high-grade abnormalities (Atypical Squamous Cells, High-grade Lesion or ASC-H, Atypical Glandular Cells or AGUS, High-grade Squamous Intraepithelial Lesion or HSIL, and Invasive cancer).
+
+We conducted analyses summarizing patient characteristics including age at screening, parity, reporting means and standard deviations. We also assessed marital status, and pap smear outcome by Bethesda classification system as categorical variables, reporting proportions for each variable. The primary outcome of interest was the number of pap smears completed by year, including the cytological results of those screenings.
+
+Data were analyzed using the Statistical Package for the Social Science (SPSS), Version 20 (IBM Corp., Armonk, USA).
+
+# Results
+
+Over a period of 42 years from March 1981 to December 2022, 100155 Pap smears were collected from women attending the ECDU, at the Department of Obstetrics and Gynecology, Ain Shams University, Cairo, Egypt. Following data cleaning, 95120 smears were available for data analysis.
+
+The mean age of the women screened was 38.48 (10.45). Most of women were married and were examined as a routine check-up, @tbl-demogr. Among women who opted for screening due to clinical symptoms, vaginal discharge (26%) was the commonest indication.
+
+| Demographic and clinical characteristics | Mean (SD) or number (%) | Valid number |
+|----------------------------------|---------------------|------------------|
+| Age at screening (years)                 | 38.48 (10.45)           | 95120        |
+| Age at first intercourse (years)         | 20.05 (1.39)            | 89490        |
+| Marital status                           |                         | 95120        |
+| Married                                  | 93709 (98.52)           |              |
+| Separated                                | 86 (0.09)               |              |
+| Widow                                    | 819 (0.86)              |              |
+| Divorced                                 | 506 (0.53)              |              |
+| Indication for screening                 |                         | 95120        |
+| Routine asymptomatic                     | 11414 (12.00)           |              |
+| Symptomatic                              | 30352 (31.91)           |              |
+| Not reported                             | 53354 (56.09)           |              |
+
+: Demographic characteristics of women screened at ECDU, Ain Shams University, 1981– 2022 {#tbl-demogr}
+
+The temporal trend of screening is depicted in @fig-scrtrend.
+
+![Temporal trend of the number of screened women by year at ECDU, Ain Shams University, 1981– 2022](fig/trendscreen.png){#fig-scrtrend}
+
+Epithelial abnormalities were absent in 94.56% of women (89946/95120; either with or without inflammatory cells 71971 and 17975 respectively), @tbl-screened
+
+| Finding                   | Frequency | Relative frequency |
+|:--------------------------|:----------|:-------------------|
+| NILM                      | 89946     | 94.56%             |
+| LGSIL                     | 4144      | 4.36%              |
+| ASC                       | 378       | 0.40%              |
+| HGSIL                     | 226       | 0.24%              |
+| AG cells NOS              | 184       | 0.19%              |
+| Adenocarcinoma            | 165       | 0.17%              |
+| Malignant SCC             | 70        | 0.07%              |
+| AG cells favor neoplastic | 7         | 0.01%              |
+| Total                     | 95120     | 100.00%            |
+
+: Results of cervical cytology among women screened at ECDU, Ain Shams University, 1981– 2022 {#tbl-screened}
+
+Pap smears showed epithelial abnormalities in 5.44% of participants (5174/95120). Epithelial cell abnormalities included LGSIL (low grade squamous intraepithelial lesion) in 4144 women (`r LGSIL`) (3113 (3.3%) as condyloma and 1031 (1.1%) CIN I), Atypical squamous cells (ASC) 378 (`r ASC`) (ASCUS 351 (0.37%), ASC-H 27 (0.03%)), HGSIL (high grade squamous intra-epithelial lesion) in 226 (`r HGSIL`) (HGSIL-CIN II 202, HGSIL-CIN III 24), and squamous cell carcinoma 70 (`r scc`) cases. There were 184 (`r ag`) Atypical glandular NOS (not otherwise specified) and 165 (`r ac`) adenocarcinoma (155 malignant endocervical cells and 10 malignant endometrial cells).
+
+Condyloma rate fluctuated from 4% to 1% and rate of CIN started with 9% in 1981 and ended by 0.52% in 2004. The rate of LGSIL started with 6.9% in 1981 and ended by 4.3% in 2022, while HGSIL started with 1.2% and ended with 0.13%. The estimated rate of premalignant lesions (ASC, LGSIL & HGSIL) showed fluctuation over the 42 years. The rate started with about 10% in 1981 and ended by 5% in 2022. The temporal trends are depicted in @fig-sil and @fig-malig.
+
+![Temporal trend of squamous intraepithelial lesion by year among women screened at ECDU, Ain Shams University, 1981– 2022](fig/trendsil.png){#fig-sil}
+
+![Temporal trend of premalignant and malignant findings by year among women screened at ECDU, Ain Shams University, 1981– 2022](fig/trendmalig.png){#fig-malig}
+
+Patients with abnormal cells showed significantly higher mean age when compared to those with normal cells (40.5 versus 38.4) P \<0.001. ASC cases showed significantly older age when compared to LSIL and younger age than HSIL, and Glandular cells (Favor neoplastic) cases P \<0.001. LSIL cases showed significantly lower mean age than other abnormal cell cases P \<0.001. LGSIL and AGUS showed significant lower age than Malignant Squamous Cell Carcinoma, HSIL and adenocarcinoma cases P \<0.05. There was a statistical significant difference between rate of abnormal cells in different age groups P\<0.001. The majority of abnormal cells were found among age group above 60, there was statistical significant difference between each pair of age groups except between groups aged \< 20 and from 21-30 years, and between groups aged 51-60 and \>60 years. Although rates increased along age groups; rates flattened in the middle age groups and appeared to increase in the older age groups.
+
+Epithelial abnormalities were significantly higher in women with routine check-up when compared to symptomatic women P\<0.001 (OR: 1.2 (95%CI; 1.11 to 1.30).
+
+# Discussion
+
+## Key results
+
+While prior studies have investigated Pap smear patterns in various Middle Eastern nations, the current one stands out as one of the largest analyses, encompassing four decades of data from Egypt, a highly populous region of Africa and the Middle East. By analyzing routinely collected healthcare data from 95,120 satisfactory cervical smears records in the ECDU, this study investigated trends in screening uptake and the patterns of epithelial abnormality. While a notable increase in annual screened women occurred from 1981 to 1992, it noticeably declined afterward, fluctuating between about 1200 and 2000 cases per year. This likely reflects the absence of national policies and organized screening programs in Egypt.
+
+This discrepancy between the recommended cervical cancer screening guidelines and the actual clinical practice was identified in a recent systematic review. Only six of 11 countries across North America, Europe, and Asia-Pacific have implemented comprehensive population-based screening programs. This observation highlights a potential gap between policy recommendations and real-world implementation of cervical cancer prevention strategies.
+
+Current consensus doesn’t recommend the initiation of cervical cancer screening before the age 21 years in immunocompetent females due to very low rate of cervical cancer among women ages 20 to 24 years (0.8 per 100,000). This study included 1656 women under the age of 20 years. A potential explanation for this deviation lies in Egypt's relatively early marriage age, which might have led to earlier sexual activity and a higher likelihood of symptomatic presentation in this age group.
+
+This study found a 5.4% prevalence of epithelial abnormalities in cervical Pap smears. This aligns with previous reports from other Arab countries like Saudi Arabia (4.27%), Jordan (3.8%), United Arab Emirates (3.3%), and Kuwait (4.4%). This similarity might be related to shared cultural, religious, and legal factors impacting sexual practices.
+
+However, this prevalence is significantly lower than reported in sub-Saharan Africa, accounts for 80% of the global burden of cancer cervix. Studies in Southwestern Nigeria (34.6%) and Northwest Ethiopia (14.1%) illustrate this contrast. Coexisting HIV infection in these regions is a potential explanation for the higher rates.
+
+In the current study, the epithelial abnormalities were significantly higher in women with routine check-up when compared to symptomatic women P\<0.001 (OR: 1.2 (95%CI; 1.11 to 1.30). Notably, no significant difference in abnormality prevalence was observed between asymptomatic and symptomatic Saudi women (p = 0.73, OR: 1.07, 95% CI: 0.75-1.52).(1) This finding suggests that routine cervical cancer screening may be more effective in detecting pre-cancerous changes than relying solely on the presence of symptoms.
+
+In this study, the prevalences of atypical squamous cells (ASC), atypical squamous cell of undetermined significance (ASCUS), Atypical Squamous Cells-HSIL cannot be excluded (ASC-H), low grade squamous intraepithelial lesion (LSIL), High grade intra-epithelial lesion (HSIL), and Malignant Squamous Cell Carcinoma were 7.31%, 0.37%, 0.03%, 4.36%, 0.24%, and 0.07%, respectively.
+
+The prevalence of cervical epithelial abnormalities in Southwestern Nigeria was 34.6% after excluding the inflammatory smear results, with the atypical squamous cell of undetermined significance, low grade squamous intraepithelial lesion (LGSIL), and high grade squamous intraepithelial lesion (HGSIL) represented 6.5%, 11.7%, and 6.2%, respectively. The prevalence of atypical glandular cell and squamous cell carcinoma were 0.7% and 0.2%, respectively.
+
+Another study identified ASC-US in 52.4% of cases, atypical glandular cells of undetermined significance (AGUS) in 27.6%, LSIL in 12.9%, and HSIL in 6.2% of the Jordanian population studied. Similarly in western China, 54.88% were diagnosed with ASCUS, , 2.33% had ASC-H , 35.12% had LSIL, and 14.65% participants exhibited HSIL.
+
+In an Age-stratified analysis of the distribution of cytological abnormalities, we found that the majority of abnormal cells were found among women older than 60 years, may be due to the limited organized screening programs in Egypt in younger women with accumulation of detected epithelial abnormalities over time.
+
+Our results indicate that women with ASC had significantly older age than those with LSIL and younger age than HSIL, and glandular cells. LSIL and AGUS showed significant lower age than Malignant Squamous Cell Carcinoma, HSIL and adenocarcinoma cases. This was consistent with the findings of previously published results of ASC, LSIL, and HSIL having a peak incidence in the 30–39-year age group while AGUS peaked among individuals aged 40-49 years. Malignant lesions exhibited a further increase in incidence after the age of 50 years. The mean age of diagnosis for LSIL and HSIL was 34.7 and 37.7 years, respectively, while malignant lesions presented with a mean age of diagnosis at 51.8 years.
+
+An analysis of the rates of epithelial abnormalities over a 42-year period (1981-2022 revealed that the incidence of cervical intraepithelial neoplasia (CIN) declined from 9% in 1981 to 0.52% in 2004, while LSIL rates decreased from 6.9% to 4.3%. HSIL rates dropped from 1.2% to 0.13%. The combined rate of premalignant lesions (ASC, LSIL, and HSIL) fluctuated over this period, starting at approximately 10% in 1981 and ending at 5% in 2022. While the observed decline appears reassuring, it does not necessarily reflect the direct effectiveness of a comprehensive preventive strategy. This is because the screening service in ECDU currently operates on an opportunistic basis rather than a structured, population-based approach.
+
+Our finding provides a real picture of the state of practice and burden of epithelial abnormalities. It underscores the potential for scaling up this high impact practice to meet the World Health Organization’s 2030 targets for cervical cancer elimination.
+
+## Strengths and limitations
+
+The present study has notable strengths. This study is among the limited number of reports that scrutinize longitudinal patterns in the uptake of cervical cancer screening in a middle income country. It highlighted the vital role that reliable data collected during routine healthcare data can play in describing practice and identifying the potential challenges in accessing care. Our study included a large number of participants and spanned 42 years of practice. Another strength of this work is that all cytologic findings were assessed and confirmed by highly competent pathologists and documented in the electronic database, reducing the possibility of incorrect classification of screening results.
+
+This dataset had some missing data in demographic characteristics of participants. This is expected for studies conducted in a developing country to review routinely collected healthcare data. All demographic data are self-reported by women, which is prone to recall bias. The process of screening for cervical cancer is characterized by opportunistic practices rather than organized efforts. This implies that the subset of women who undergo screening differs from those who do not, as the former group has successfully surmounted various obstacles such as financial constraints, social factors, cultural influences, and geographic limitations to avail themselves of screening services. There is also a lack of information relating to the source of referral (e.g. self-referred or provider referred) for screening. Finally, the change of terminology used over time may have some implications for the assigned category of abnormality observed.
+
+# Conclusion
+
+The trends in the utilization of cervical cancer screening and the burden of epithelial abnormalities among women who underwent screening at a tertiary university hospital in Egypt were brought to the forefront by our findings. The existing opportunistic screening system has the potential to be expanded on a national scale and to be integrated with the rolling of the universal health coverage system in the country. Our results offer valuable insights for policy makers in terms of comprehending the true extent of pre-invasive abnormalities, which can then be utilized to shape advanced testing or vaccination policies.
+
+# List of abbreviations
+
+ECDU: Early Cancer Detection Unit
+
+# List of tables
+
+Table 1 Demographic characteristics of women screened at ECDU, Ain Shams University, 1981– 2022
+
+Table 2 Results of cervical cytology among women screened at ECDU, Ain Shams University, 1981– 2022
+
+# List of figures
+
+Figure 1 Temporal trend of the number of screened women by year at ECDU, Ain Shams University, 1981– 2022
+
+Figure 2 Temporal trend of squamous intra-epithelial lesions by year among women screened at ECDU, Ain Shams University, 1981– 2022
+
+Figure 3 Temporal trend of premalignant and malignant findings by year among women screened at ECDU, Ain Shams University, 1981– 2022
+
+# Declarations
+
+## Ethics approval and consent to participate
+
+## Consent for publication
+
+## Availability of data and materials
+
+## Competing interests
+
+## Funding
+
+## Authors' contributions
+
+## Acknowledgements
+
+Early Cancer Detection Collaborators:
+
+# References
