@@ -78,7 +78,7 @@ Over a period of 42 years from March 1981 to December 2022, 100155 Pap smears we
 The mean age of the women screened was 38.48 (10.45). Most of women were married and were examined as a routine check-up, @tbl-demogr. Among women who opted for screening due to clinical symptoms, vaginal discharge (26%) was the commonest indication.
 
 | Demographic and clinical characteristics | Mean (SD) or number (%) | Valid number |
-|----------------------------------|---------------------|------------------|
+|---------------------------------|---------------------|------------------|
 | Age at screening (years)                 | 38.48 (10.45)           | 95120        |
 | Age at first intercourse (years)         | 20.05 (1.39)            | 89490        |
 | Marital status                           |                         | 95120        |
@@ -151,7 +151,7 @@ In an Age-stratified analysis of the distribution of cytological abnormalities, 
 
 Our results indicate that women with ASC had significantly older age than those with LSIL and younger age than HSIL, and glandular cells. LSIL and AGUS showed significant lower age than Malignant Squamous Cell Carcinoma, HSIL and adenocarcinoma cases. This was consistent with the findings of previously published results of ASC, LSIL, and HSIL having a peak incidence in the 30–39-year age group while AGUS peaked among individuals aged 40-49 years. Malignant lesions exhibited a further increase in incidence after the age of 50 years. The mean age of diagnosis for LSIL and HSIL was 34.7 and 37.7 years, respectively, while malignant lesions presented with a mean age of diagnosis at 51.8 years.
 
-An analysis of the rates of epithelial abnormalities over a 42-year period (1981-2022 revealed that the incidence of cervical intraepithelial neoplasia (CIN) declined from 9% in 1981 to 0.52% in 2004, while LSIL rates decreased from 6.9% to 4.3%. HSIL rates dropped from 1.2% to 0.13%. The combined rate of premalignant lesions (ASC, LSIL, and HSIL) fluctuated over this period, starting at approximately 10% in 1981 and ending at 5% in 2022. While the observed decline appears reassuring, it does not necessarily reflect the direct effectiveness of a comprehensive preventive strategy. This is because the screening service in ECDU currently operates on an opportunistic basis rather than a structured, population-based approach.
+Over a 42-year period SIL abnormalities showed a decline in LSIL from 6.9% to 4.3% and HSIL from 1.2% to 0.13%. The relative frequency of preinvasive abnormalities (ASC, LSIL, and HSIL) started at approximately 10% in 1981 and dropped to 5% in 2022. While the observed decline appears reassuring, it does not necessarily reflect the direct effectiveness of a comprehensive preventive strategy. This is because the screening service in ECDU currently operates on an opportunistic basis rather than a structured, population-based approach.
 
 Our finding provides a real picture of the state of practice and burden of epithelial abnormalities. It underscores the potential for scaling up this high impact practice to meet the World Health Organization’s 2030 targets for cervical cancer elimination.
 
