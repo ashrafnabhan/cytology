@@ -27,7 +27,7 @@ options(digits = 4)
 
 Results: A total of 95120 samples were found to be satisfactory and were included in the analyses. The mean age of included women was 38.5 (10.5). Abnormal epithelial cells were reported in 5174 of the samples (`r abcy`). The most frequent epithelial cell abnormalities were low grade squamous intra-epithelial lesion in 4144 women (`r LGSIL`), followed by atypical squamous cells in 378 women (`r ASC`), high grade squamous intraepithelial lesion in 226 women (`r HGSIL`), and squamous cell carcinoma in 70 women (`r scc`). There were 184 (`r ag`) atypical glandular NOS (not otherwise specified) and 165 (`r ac`) adenocarcinoma observations. The observed rate of pre-malignant lesions (ASC, LGSIL, and HGSIL) showed fluctuation in the period of data collection. The rate started with about 10% in 1981 and ended by 5% in 2022.
 
-Conclusions: Our results highlighted the trends in cervical cancer screening in Egypt among those women screened in a large tertiary university center.
+Conclusions: The trends in cervical cancer screening in Egypt in a large tertiary university center remain in plateau. The trend in cervical cytology is associated with an increasing trend of downstream low grade squamous intra-epithelial lesions but not with high grade squamous intra-epithelial lesions or suspected invasive cervical cancer. Action is needed to increase screening coverage. 
 
 # Keywords
 
