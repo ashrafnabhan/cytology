@@ -78,7 +78,7 @@ Over a period of 42 years from March 1981 to December 2022, 100155 Pap smears we
 The mean age of the women screened was 38.48 (10.45). Most of women were married and were examined as a routine check-up, @tbl-demogr. Among women who opted for screening due to clinical symptoms, vaginal discharge (26%) was the commonest indication.
 
 | Demographic and clinical characteristics | Mean (SD) or number (%) | Valid number |
-|---------------------------------|---------------------|------------------|
+|------------------------------------------|-------------------------|--------------|
 | Age at screening (years)                 | 38.48 (10.45)           | 95120        |
 | Age at first intercourse (years)         | 20.05 (1.39)            | 89490        |
 | Marital status                           |                         | 95120        |
@@ -115,7 +115,7 @@ Epithelial abnormalities were absent in 94.56% of women (89946/95120; either wit
 
 Pap smears showed epithelial abnormalities in 5.44% of participants (5174/95120). Epithelial cell abnormalities included LGSIL (low grade squamous intraepithelial lesion) in 4144 women (`r LGSIL`) (3113 (3.3%) as condyloma and 1031 (1.1%) CIN I), Atypical squamous cells (ASC) 378 (`r ASC`) (ASCUS 351 (0.37%), ASC-H 27 (0.03%)), HGSIL (high grade squamous intra-epithelial lesion) in 226 (`r HGSIL`) (HGSIL-CIN II 202, HGSIL-CIN III 24), and squamous cell carcinoma 70 (`r scc`) cases. There were 184 (`r ag`) Atypical glandular NOS (not otherwise specified) and 165 (`r ac`) adenocarcinoma (155 malignant endocervical cells and 10 malignant endometrial cells).
 
-Condyloma rate fluctuated from 4% to 1% and rate of CIN started with 9% in 1981 and ended by 0.52% in 2004. The rate of LGSIL started with 6.9% in 1981 and ended by 4.3% in 2022, while HGSIL started with 1.2% and ended with 0.13%. The estimated rate of premalignant lesions (ASC, LGSIL & HGSIL) showed fluctuation over the 42 years. The rate started with about 10% in 1981 and ended by 5% in 2022. The temporal trends are depicted in @fig-sil and @fig-malig.
+Condyloma rate fluctuated from 4% to 1% and rate of CIN started with 9% in 1981 and ended by 0.52% in 2004. Detection of LGSIL declined from 6.9% in 1981 to 4.3% in 2022, while HGSIL declined from 1.2% to 0.13%. The estimated rate of premalignant lesions (ASC, LGSIL & HGSIL) showed fluctuation over the 42 years. The rate started with about 10% in 1981 and ended by 5% in 2022. The temporal trends are depicted in @fig-sil and @fig-malig.
 
 ![Temporal trend of squamous intraepithelial lesion by year among women screened at ECDU, Ain Shams University, 1981– 2022](fig/trendsil.png){#fig-sil}
 
