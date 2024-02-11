@@ -94,7 +94,7 @@ Over a period of 42 years from March 1981 to December 2022, 100155 Pap smears we
 The mean age of the women screened was 38.48 (10.45). Most of women were married and were examined as a routine check-up, @tbl-demogr. Among women who opted for screening due to clinical symptoms, vaginal discharge (26%) was the commonest indication.
 
 | Demographic and clinical characteristics | Mean (SD) or number (%) | Valid number |
-|---------------------------------|---------------------|------------------|
+|------------------------------------------|-------------------------|--------------|
 | Age at screening (years)                 | 38.48 (10.45)           | 95120        |
 | Age at first intercourse (years)         | 20.05 (1.39)            | 89490        |
 | Marital status                           |                         | 95120        |
