@@ -139,7 +139,7 @@ In the period from 1981 to 2004, Condyloma declined from 4% to 1% and CIN I from
 
 Patients with abnormal cells showed significantly higher mean age when compared to those with normal cells (40.5 versus 38.4) P \<0.001. ASC cases showed significantly older age when compared to LSIL and younger age than HSIL, and Glandular cells (Favor neoplastic) cases P \<0.001. LSIL cases showed significantly lower mean age than other abnormal cell cases P \<0.001. LGSIL and AGUS showed significant lower age than Malignant Squamous Cell Carcinoma, HSIL and adenocarcinoma cases P \<0.05. There was a statistical significant difference between rate of abnormal cells in different age groups P\<0.001. The majority of abnormal cells were found among age group above 60, there was statistical significant difference between each pair of age groups except between groups aged \< 20 and from 21-30 years, and between groups aged 51-60 and \>60 years. Although rates increased along age groups; rates flattened in the middle age groups and appeared to increase in the older age groups.
 
-Epithelial abnormalities were significantly higher in women with routine check-up when compared to symptomatic women (OR \[95% CI\] 1.2 \[1.11, 1.30\], P\<0.001).
+Epithelial abnormalities were significantly higher in women with routine check-up when compared to symptomatic women (OR \[95% CI\] 1.2 \[1.11, 1.30\], P\<0.001). Women with epithelial abnormalities had a significantly younger age at first intercourse (P\<0.001).
 
 The yearly number of screened women was positively associated with the observed LGSIL (correlation coefficient \[95%CI\] = `r lgestimate` \[`r lgci`\]) ( @fig-lg ), not significantly associated with HGSIL (correlation coefficient \[95%CI\] = `r hgestimate` \[`r hgci`\]) ( @fig-hg ), and negatively associated with the observed suspected invasion (correlation coefficient \[95%CI\] = `r malestimate` \[`r malci`\]) ( @fig-mal ).
 
@@ -153,7 +153,7 @@ The yearly number of screened women was positively associated with the observed 
 
 ## Key results
 
-While prior studies have investigated Pap smear patterns in various Middle Eastern nations, the current one stands out as one of the largest analyses, encompassing four decades of data from Egypt, a highly populous region of Africa and the Middle East. By analyzing routinely collected healthcare data from 95,120 satisfactory cervical smears records in the ECDU, this study investigated trends in screening uptake and the patterns of epithelial abnormality. While a notable increase in annual screened women occurred from 1981 to 1992, it noticeably declined afterward, fluctuating between about 1200 and 2000 cases per year. This likely reflects the absence of national policies and organized screening programs in Egypt.
+By analyzing routinely collected healthcare data from 95,120 satisfactory cervical smears records in the ECDU, this study reported the trends in screening uptake and in the observed epithelial abnormalities. While a notable increase in annual screened women occurred from 1981 to 1992, it declined afterward. Women with an early age at first intercourse, who opted for routine cervical cytology screening, and who were older at screening were more likely to have epithelial abnormalities. The most common epithelial abnormality was LGSIL. The yearly utilization of cervical screening by cytology was positively associated with LGSIL and negatively associated with invasive lesions.
 
 This discrepancy between the recommended cervical cancer screening guidelines and the actual clinical practice was identified in a recent systematic review. Only six of 11 countries across North America, Europe, and Asia-Pacific have implemented comprehensive population-based screening programs. This observation highlights a potential gap between policy recommendations and real-world implementation of cervical cancer prevention strategies.
 
@@ -206,6 +206,12 @@ Figure 1 Temporal trend of the number of screened women by year at ECDU, Ain Sha
 Figure 2 Temporal trend of squamous intra-epithelial lesions by year among women screened at ECDU, Ain Shams University, 1981– 2022
 
 Figure 3 Temporal trend of premalignant and malignant findings by year among women screened at ECDU, Ain Shams University, 1981– 2022
+
+Figure 4 Yearly screened women and LGSIL
+
+Figure 5 Yearly screened women and HGSIL
+
+Figure 6 Yearly screened women and suspected invasive lesions
 
 # Declarations
 
