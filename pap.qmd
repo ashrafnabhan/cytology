@@ -89,12 +89,12 @@ Data were analyzed using the Statistical Package for the Social Science (SPSS), 
 
 # Results
 
-Over a period of 42 years from March 1981 to December 2022, 100155 Pap smears were collected from women attending the ECDU, at the Department of Obstetrics and Gynecology, Ain Shams University, Cairo, Egypt. Following data cleaning, 95120 smears were available for data analysis.
+In a period of 42 years from March 1981 to December 2022, 100155 Pap smears were collected from women attending the ECDU, at the Department of Obstetrics and Gynecology, Ain Shams University, Cairo, Egypt. Following data cleaning, 95120 smears were available for data analysis.
 
 The mean age of the women screened was 38.48 (10.45). Most of women were married and were examined as a routine check-up, @tbl-demogr. Among women who opted for screening due to clinical symptoms, vaginal discharge (26%) was the commonest indication.
 
 | Demographic and clinical characteristics | Mean (SD) or number (%) | Valid number |
-|----------------------------------|---------------------|------------------|
+|---------------------------------|---------------------|------------------|
 | Age at screening (years)                 | 38.48 (10.45)           | 95120        |
 | Age at first intercourse (years)         | 20.05 (1.39)            | 89490        |
 | Marital status                           |                         | 95120        |
@@ -109,7 +109,7 @@ The mean age of the women screened was 38.48 (10.45). Most of women were married
 
 : Demographic characteristics of women screened at ECDU, Ain Shams University, 1981– 2022 {#tbl-demogr}
 
-The temporal trend of screening is depicted in @fig-scrtrend.
+The temporal trend of screening is depicted in @fig-scrtrend. The median \[IQR\] number of women who had cervical cytology screening was 1982 \[1674, 2928\].
 
 ![Temporal trend of the number of screened women by year at ECDU, Ain Shams University, 1981– 2022](fig/trendscreen.png){#fig-scrtrend}
 
@@ -129,9 +129,9 @@ Epithelial abnormalities were absent in 94.56% of women (89946/95120; either wit
 
 : Results of cervical cytology among women screened at ECDU, Ain Shams University, 1981– 2022 {#tbl-screened}
 
-Pap smears showed epithelial abnormalities in 5.44% of participants (5174/95120). Epithelial cell abnormalities included LGSIL (low grade squamous intraepithelial lesion) in 4144 women (`r LGSIL`) (3113 (3.3%) as condyloma and 1031 (1.1%) CIN I), Atypical squamous cells (ASC) 378 (`r ASC`) (ASCUS 351 (0.37%), ASC-H 27 (0.03%)), HGSIL (high grade squamous intra-epithelial lesion) in 226 (`r HGSIL`) (HGSIL-CIN II 202, HGSIL-CIN III 24), and squamous cell carcinoma 70 (`r scc`) cases. There were 184 (`r ag`) Atypical glandular NOS (not otherwise specified) and 165 (`r ac`) adenocarcinoma (155 malignant endocervical cells and 10 malignant endometrial cells).
+Pap smears showed epithelial abnormalities in 5.44% of participants (5174/95120). Epithelial cell abnormalities included LGSIL (low grade squamous intraepithelial lesion) in 4144 women (`r LGSIL`) (condyloma in 3113 (3.3%) and CIN I in 1031 (1.1%) women), Atypical squamous cells (ASC) 378 (`r ASC`) (ASCUS in 351 (0.37%) and ASC-H in 27 (0.03%) women), HGSIL (high grade squamous intra-epithelial lesion) in 226 (`r HGSIL`) (HGSIL-CIN II in 202 and HGSIL-CIN III in 24 women), and squamous cell carcinoma in 70 (`r scc`) women. There were 184 (`r ag`) Atypical glandular NOS (not otherwise specified) and 165 (`r ac`) adenocarcinoma ( malignant endocervical cells in 155 and malignant endometrial cells in 10 women).
 
-Condyloma rate fluctuated from 4% to 1% and rate of CIN started with 9% in 1981 and ended by 0.52% in 2004. Detection of LGSIL declined from 6.9% in 1981 to 4.3% in 2022, while HGSIL declined from 1.2% to 0.13%. The estimated rate of premalignant lesions (ASC, LGSIL & HGSIL) showed fluctuation over the 42 years. The rate started with about 10% in 1981 and ended by 5% in 2022. The temporal trends are depicted in @fig-sil and @fig-malig.
+In the period from 1981 to 2004, Condyloma declined from 4% to 1% and CIN I from 9% to 0.52%. Detection of LGSIL declined from 6.9% in 1981 to 4.3% in 2022, while HGSIL declined from 1.2% to 0.13%. Preinvasive lesions (ASC, LGSIL, and HGSIL) declined from 10% in 1981 to 5% in 2022. The temporal trends are depicted in @fig-sil and @fig-malig.
 
 ![Temporal trend of squamous intraepithelial lesion by year among women screened at ECDU, Ain Shams University, 1981– 2022](fig/trendsil.png){#fig-sil}
 
@@ -139,7 +139,7 @@ Condyloma rate fluctuated from 4% to 1% and rate of CIN started with 9% in 1981 
 
 Patients with abnormal cells showed significantly higher mean age when compared to those with normal cells (40.5 versus 38.4) P \<0.001. ASC cases showed significantly older age when compared to LSIL and younger age than HSIL, and Glandular cells (Favor neoplastic) cases P \<0.001. LSIL cases showed significantly lower mean age than other abnormal cell cases P \<0.001. LGSIL and AGUS showed significant lower age than Malignant Squamous Cell Carcinoma, HSIL and adenocarcinoma cases P \<0.05. There was a statistical significant difference between rate of abnormal cells in different age groups P\<0.001. The majority of abnormal cells were found among age group above 60, there was statistical significant difference between each pair of age groups except between groups aged \< 20 and from 21-30 years, and between groups aged 51-60 and \>60 years. Although rates increased along age groups; rates flattened in the middle age groups and appeared to increase in the older age groups.
 
-Epithelial abnormalities were significantly higher in women with routine check-up when compared to symptomatic women P\<0.001 (OR: 1.2 (95%CI; 1.11 to 1.30).
+Epithelial abnormalities were significantly higher in women with routine check-up when compared to symptomatic women (OR \[95% CI\] 1.2 \[1.11, 1.30\], P\<0.001).
 
 The yearly number of screened women was positively associated with the observed LGSIL (correlation coefficient \[95%CI\] = `r lgestimate` \[`r lgci`\]) ( @fig-lg ), not significantly associated with HGSIL (correlation coefficient \[95%CI\] = `r hgestimate` \[`r hgci`\]) ( @fig-hg ), and negatively associated with the observed suspected invasion (correlation coefficient \[95%CI\] = `r malestimate` \[`r malci`\]) ( @fig-mal ).
 
