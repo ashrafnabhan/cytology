@@ -2,7 +2,7 @@
 format: html
 editor: visual
 bibliography: pap.bib
-csl: vancouver.csl
+csl: vancouver-brackets.csl
 ---
 
 ```{r echo=FALSE, include=FALSE}
