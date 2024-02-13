@@ -67,13 +67,13 @@ Early Detection of Cancer, Cancer Screening, Uterine Cervical Neoplasms, Cervica
 
 Cervical cancer, a matter of public health concern, is ranked as the fourth most prevalent form of cancer in women worldwide. In the context of Egypt, it is the 14th most commonly occurring cancer among women. @ferlay2020
 
-The natural history of cervical cancer has been extensively documented. There is widespread acceptance of a multi-step carcinogenesis model, wherein the critical stages are HPV infection, progression to pre-cancerous state, and subsequent development of invasive cancer. @Schiffman2016
+The natural history of cervical cancer has been extensively documented. There is widespread acceptance of a multi-step carcinogenesis model, wherein the critical stages are HPV infection, progression to pre-cancerous state, and subsequent development of invasive cancer. [@Schiffman2016, @Wright2023]
 
 Cervical cancer is largely preventable, and there has been a decline in its incidence over the past few decades in most countries, although the extent of this reduction varies. This decline can be attributed to both vaccination and screening for precursor lesions, followed by appropriate follow-up and treatment. [@Bouvard2021; @WHO2021] This has formed the foundation for the World Health Organization (WHO) global initiative to eliminate cervical cancer as a public health problem. One cornerstone of this initiative is achieving a target of 70% screening coverage of women aged 30–49 years with a high-performance test. @wh2020
 
 A screening program is the initial mandatory step of a process, specifically screening, triage of individuals with positive screening results, confirmation through biopsy, and treatment of individuals with precancerous lesions. @Bouvard2021
 
-Screening is available in many countries through either population-based (organized) or non-population-based (unorganized) programs, as well as through opportunistic screening. Participation rates and coverage vary significantly across countries and settings. The key factors influencing participation are socioeconomic status, health insurance coverage, public awareness, and level of education. Additionally, some women may face barriers to accessing these services due to a lack of power, authority, or control, which can be major obstacles to their participation. @Gakidou2008
+Screening is available in many countries through either population-based (organized) or non-population-based (unorganized) programs, as well as through opportunistic screening. Participation rates and coverage vary significantly across countries and settings. The key factors influencing participation are socioeconomic status, health insurance coverage, public awareness, and level of education. Additionally, some women may face barriers to accessing these services due to a lack of power, authority, or control, which can be major obstacles to their participation. [@Gakidou2008, @Peirson2013, @Perkins2023]
 
 According to the 2015 Egypt Health Issues Survey, the knowledge and utilization of pap smears for cervical cancer screening among women is quite limited. Only 7 percent of women between the ages of 15 and 59 had ever heard of a pap smear, and a very small percentage (0.3 percent) had actually undergone the procedure. The proportion of women who were aware of pap smears exceeded 10 percent only among women residing in urban governorates (14 percent), women working for cash (13 percent), and women in the highest wealth quintile (11 percent). In all subgroups, one percent or less of women reported ever having had a pap smear. @Health2015
 
@@ -110,7 +110,7 @@ In a period of 42 years from March 1981 to December 2022, 100155 Pap smears were
 The mean age of the women screened was 38.48 (10.45). Most of women were married and were examined as a routine check-up, @tbl-demogr. Among women who opted for screening due to clinical symptoms, vaginal discharge (26%) was the commonest indication. The majority of smears (57072/95120 \[60.00%\]) were performed following referral from a healthcare provider to the ECDU for screening.
 
 | Demographic and clinical characteristics | Mean (SD) or number (%) | Valid number |
-|------------------------------------------|-------------------------|--------------|
+|-----------------------------------|---------------------|-----------------|
 | Age at screening (years)                 | 38.48 (10.45)           | 95120        |
 | Age at first intercourse (years)         | 20.05 (1.39)            | 89490        |
 | Marital status                           |                         | 95120        |
