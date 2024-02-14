@@ -1,5 +1,5 @@
 ---
-format: html
+format: docx
 editor: visual
 bibliography: pap.bib
 csl: vancouver-brackets.csl
