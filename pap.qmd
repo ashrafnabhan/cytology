@@ -35,19 +35,11 @@ options(digits = 4)
 
 # Utilization of cervical cancer screening by cytology and the burden of epithelial abnormalities: A tertiary-center 42-years study
 
-## Early Cervical Cancer Detection Collaborators
+Authors: [Early Cervical Cancer Detection Consortium](#consortium)
 
-Department of Obstetrics and Gynecology, Faculty of Medicine, Ain Shams University
+Affiliation: Faculty of Medicine, Ain Shams University, Egypt
 
-## Corresponding author
-
-Radwa Ali
-
-Address: Department of Obstetrics and Gynecology, Faculty of Medicine, Ain Shams University, Abbassia, 11566, Cairo, Egypt
-
-Email:
-
-ORCID
+Corresponding author: Radwa Ali, Department of Obstetrics and Gynecology, Faculty of Medicine, Ain Shams University, Abbassia, 11566, Cairo, Egypt - Email: radwarasheedy\@med.asu.edu.eg - ORCID: https://orcid.org/0000-0003-0230-0966
 
 # Abstract
 
@@ -110,7 +102,7 @@ In a period of 42 years from March 1981 to December 2022, 100155 Pap smears were
 The mean age of the women screened was 38.48 (10.45). Most of women were married and were examined as a routine check-up, @tbl-demogr. Among women who opted for screening due to clinical symptoms, vaginal discharge (26%) was the commonest indication. The majority of smears (57072/95120 \[60.00%\]) were performed following referral from a healthcare provider to the ECDU for screening.
 
 | Demographic and clinical characteristics | Mean (SD) or number (%) | Valid number |
-|------------------------------------------|-------------------------|--------------|
+|---------------------------------|---------------------|------------------|
 | Age at screening (years)                 | 38.48 (10.45)           | 95120        |
 | Age at first intercourse (years)         | 20.05 (1.39)            | 89490        |
 | Marital status                           |                         | 95120        |
@@ -249,8 +241,8 @@ All authors collaborated in conceiving the idea for this study and in conducting
 
 ## Acknowledgements
 
-Early Cervical Cancer Detection Collaborators: Sorted alphabet
+## Consortium {#consortium}
 
-Maya Abdelrazek, Magda Abdelsalam, Reem Abdelsalam, Rehab Abdelrahman, Radwa Ali, Amal Alloub, Hamdy Alqenawy, Nahla Awad, Sohair Ayaad, Hala El-Sallaly, Amro Elhusseiny, Sahar Ezzelarab, Ragia Fahmy, Asmaa Kasem, Ghada Moubarak, Ashraf Nabhan, Magda Nasreldin, Ragaa Rifaat, Zeinab Shehabeldin, Ahmed Zenhom
+Maya Abdelrazek, Magda Abdelsalam, Reem Abdelsalam, Rehab Abdelrahman, Radwa Ali, Amal Alloub, Hamdy Alqenawy, Nahla Awad, Sohair Ayaad, Amro El-Husseiny, Hala El-Sallaly, Mortada El-Sayed, Sahar Ezzelarab, Ragia Fahmy, Asmaa Kasem, Ghada Moubarak, Ashraf Nabhan, Magda Nasreldin, Ragaa Rifaat, Zeinab Shehabeldin, Ahmed Zenhom
 
 # References
