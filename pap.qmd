@@ -2,7 +2,7 @@
 editor: visual
 bibliography: pap.bib
 csl: bmj.csl
-format: docx
+format: html
 ---
 
 ```{r echo=FALSE, include=FALSE}
@@ -47,7 +47,7 @@ Background: cytological screening is a high impact practice for reducing cervica
 
 Methods: Routine healthcare data were collected from March 1981 to December 2022, at the Early Cancer Detection Unit, Ain Shams University Hospital in Egypt. Cervical smear was obtained using a standardized technique and sent to the cytopathology laboratory for conventional cytology examination. The results of the examined smears were reported according to The Bethesda System for Reporting Cervical Cytology. Data were analyzed to describe the trend of in the number of women screened each year and the prevalence of epithelial abnormalities in this period.
 
-Results: The results included data from 95120 women whose smears were satisfactory. The mean age of women at the time of screening was 38.5 (10.5). Abnormal epithelial cells were reported in 5174 women (5.44%). Of these epithelial abnormalities, the majority were low grade squamous intraepithelial lesions in 4144 women (4.36%). Other abnormalities included ASC in 378 women (0.40%), HGSIL in 226 women (0.24%), AG cells NOS in 184 women (0.19%). adenocarcinoma in 165 women (0.17%), malignant SCC in 70 women (0.07%), and AG cells favor neoplastic in 7 women (0.01%). Women with an early age at first intercourse, who opted for routine cervical cytology screening, and who were older at screening were more likely to have epithelial abnormalities. The yearly number of screened women was positively associated with the observed LGSIL (correlation coefficient \[95%CI\] = 0.8402 \[0.7201, 0.9114\]), not significantly associated with HGSIL (correlation coefficient \[95%CI\] = 0.2608 \[-0.0468, 0.5233\]), and negatively associated with the observed suspected invasion (correlation coefficient \[95%CI\] = -0.5483 \[-0.7305, -0.2933\]).
+Results: The results included data from 95120 women whose smears were satisfactory. The mean age of women at the time of screening was 38.5 (10.5). Abnormal epithelial cells were reported in 5174 women (5.44%). Of these epithelial abnormalities, the majority were low grade squamous intraepithelial lesions in 4144 women (4.36%). Other abnormalities included ASC in 378 women (0.40%), HSIL in 226 women (0.24%), AG cells NOS in 184 women (0.19%). adenocarcinoma in 165 women (0.17%), malignant SCC in 70 women (0.07%), and AG cells favor neoplastic in 7 women (0.01%). Women with an early age at first intercourse, who opted for routine cervical cytology screening, and who were older at screening were more likely to have epithelial abnormalities. The yearly number of screened women was positively associated with the observed LSIL (correlation coefficient \[95%CI\] = 0.84 \[0.72, 0.91\]), not significantly associated with HSIL (correlation coefficient \[95%CI\] = 0.26 \[-0.05, 0.52\]), and negatively associated with the observed suspected invasion (correlation coefficient \[95%CI\] = -0.55 \[-0.73, -0.29\]).
 
 Conclusions: The trend in cervical cytology is associated with an increase in low grade squamous intraepithelial lesions and a decline of suspected invasive lesions. The number of yearly screened women remains extremely small. Action is needed to scale up and sustain cervical cancer screening. 
 
@@ -102,7 +102,7 @@ In a period of 42 years from March 1981 to December 2022, 100155 Pap smears were
 The mean age of the women screened was 38.48 (10.45). Most of women were married and were examined as a routine check-up, @tbl-demogr. Among women who opted for screening due to clinical symptoms, vaginal discharge (26%) was the commonest indication. The majority of smears (57072/95120 \[60.00%\]) were performed following referral from a healthcare provider to the ECDU for screening.
 
 | Demographic and clinical characteristics | Mean (SD) or number (%) | Valid number |
-|------------------------------------------|-------------------------|--------------|
+|-----------------------------------|---------------------|-----------------|
 | Age at screening (years)                 | 38.48 (10.45)           | 95120        |
 | Age at first intercourse (years)         | 20.05 (1.39)            | 89490        |
 | Marital status                           |                         | 95120        |
@@ -126,9 +126,9 @@ Epithelial abnormalities were absent in 94.56% of women (89946/95120; either wit
 | Finding                   | Frequency | Relative frequency |
 |:--------------------------|:----------|:-------------------|
 | NILM                      | 89946     | 94.56%             |
-| LGSIL                     | 4144      | 4.36%              |
+| LSIL                      | 4144      | 4.36%              |
 | ASC                       | 378       | 0.40%              |
-| HGSIL                     | 226       | 0.24%              |
+| HSIL                      | 226       | 0.24%              |
 | AG cells NOS              | 184       | 0.19%              |
 | Adenocarcinoma            | 165       | 0.17%              |
 | Malignant SCC             | 70        | 0.07%              |
@@ -137,23 +137,23 @@ Epithelial abnormalities were absent in 94.56% of women (89946/95120; either wit
 
 : Results of cervical cytology among women screened at ECDU, Ain Shams University, 1981– 2022 {#tbl-screened}
 
-Pap smears showed epithelial abnormalities in 5.44% of participants (5174/95120). Epithelial cell abnormalities included LGSIL (low grade squamous intraepithelial lesion) in 4144 women (4.36%) (condyloma in 3113 (3.27%) and CIN I in 1031 (1.08%) women), Atypical squamous cells (ASC) 378 (0.40) (ASCUS in 351 (0.37%) and ASC-H in 27 (0.03%) women), HGSIL (high grade squamous intra-epithelial lesion) in 226 (0.24%) (HGSIL-CIN II in 202 and HGSIL-CIN III in 24 women), and squamous cell carcinoma in 70 (0.07%) women. There were 184 women (0.19%) with Atypical glandular Not Otherwise Specified and 165 women (0.17%) with adenocarcinoma (malignant endocervical cells in 155 and malignant endometrial cells in 10 women).
+Pap smears showed epithelial abnormalities in 5.44% of participants (5174/95120). Epithelial cell abnormalities included LSIL (low grade squamous intraepithelial lesion) in 4144 women (4.36%) (condyloma in 3113 (3.27%) and CIN I in 1031 (1.08%) women), Atypical squamous cells (ASC) 378 (0.40) (ASCUS in 351 (0.37%) and ASC-H in 27 (0.03%) women), HSIL (high grade squamous intra-epithelial lesion) in 226 (0.24%) (HSIL-CIN II in 202 and HSIL-CIN III in 24 women), and squamous cell carcinoma in 70 (0.07%) women. There were 184 women (0.19%) with Atypical glandular Not Otherwise Specified and 165 women (0.17%) with adenocarcinoma (malignant endocervical cells in 155 and malignant endometrial cells in 10 women).
 
-In the period from 1981 to 2004, condyloma declined from 4% to 1% and CIN I from 9% to 0.52%. Detection of LGSIL declined from 6.9% in 1981 to 4.3% in 2022, while HGSIL declined from 1.2% to 0.13%. Preinvasive lesions (ASC, LGSIL, and HGSIL) declined from 10% in 1981 to 5% in 2022. The temporal trends are depicted in @fig-sil and @fig-malig.
+In the period from 1981 to 2004, condyloma declined from 4% to 1% and CIN I from 9% to 0.52%. Detection of LSIL declined from 6.9% in 1981 to 4.3% in 2022, while HSIL declined from 1.2% to 0.13%. Preinvasive lesions (ASC, LSIL, and HSIL) declined from 10% in 1981 to 5% in 2022. The temporal trends are depicted in @fig-sil and @fig-malig.
 
 ![Temporal trend of squamous intraepithelial lesion by year among women screened at ECDU, Ain Shams University, 1981– 2022](fig/trendsil.png){#fig-sil}
 
 ![Temporal trend of premalignant and malignant findings by year among women screened at ECDU, Ain Shams University, 1981– 2022](fig/trendmalig.png){#fig-malig}
 
-Patients with abnormal cells showed significantly higher mean age when compared to those with normal cells (40.5 versus 38.4) P \<0.001. ASC cases showed significantly older age when compared to LSIL and younger age than HSIL, and Glandular cells (Favor neoplastic) cases P \<0.001. LSIL cases showed significantly lower mean age than other abnormal cell cases P \<0.001. LGSIL and AGUS showed significant lower age than Malignant Squamous Cell Carcinoma, HSIL and adenocarcinoma cases P \<0.05. There was a statistical significant difference between rate of abnormal cells in different age groups P\<0.001. The majority of abnormal cells were found among age group above 60, there was statistical significant difference between each pair of age groups except between groups aged \< 20 and from 21-30 years, and between groups aged 51-60 and \>60 years. Although rates increased along age groups; rates flattened in the middle age groups and appeared to increase in the older age groups.
+Patients with abnormal cells showed significantly higher mean age when compared to those with normal cells (40.5 versus 38.4) P \<0.001. ASC cases showed significantly older age when compared to LSIL and younger age than HSIL, and Glandular cells (Favor neoplastic) cases P \<0.001. LSIL cases showed significantly lower mean age than other abnormal cell cases P \<0.001. LSIL and AGUS showed significant lower age than Malignant Squamous Cell Carcinoma, HSIL and adenocarcinoma cases P \<0.05. There was a statistical significant difference between rate of abnormal cells in different age groups P\<0.001. The majority of abnormal cells were found among age group above 60, there was statistical significant difference between each pair of age groups except between groups aged \< 20 and from 21-30 years, and between groups aged 51-60 and \>60 years. Although rates increased along age groups; rates flattened in the middle age groups and appeared to increase in the older age groups.
 
 Epithelial abnormalities were significantly higher in women with routine check-up when compared to symptomatic women (OR \[95% CI\] 1.2 \[1.11, 1.30\], P\<0.001). Women with epithelial abnormalities had a significantly younger age at first intercourse (P\<0.001).
 
-The yearly number of screened women was positively associated with the observed LGSIL (correlation coefficient \[95%CI\] = `r lgestimate` \[`r lgci`\]) ( @fig-lg ), not significantly associated with HGSIL (correlation coefficient \[95%CI\] = `r hgestimate` \[`r hgci`\]) ( @fig-hg ), and negatively associated with the observed suspected invasion (correlation coefficient \[95%CI\] = `r malestimate` \[`r malci`\]) ( @fig-mal ).
+The yearly number of screened women was positively associated with the observed LSIL (correlation coefficient \[95%CI\] = `r lgestimate` \[`r lgci`\]) ( @fig-lg ), not significantly associated with HSIL (correlation coefficient \[95%CI\] = `r hgestimate` \[`r hgci`\]) ( @fig-hg ), and negatively associated with the observed suspected invasion (correlation coefficient \[95%CI\] = `r malestimate` \[`r malci`\]) ( @fig-mal ).
 
-![Yearly screened women and LGSIL](fig/lgsil.png){#fig-lg}
+![Yearly screened women and LSIL](fig/lgsil.png){#fig-lg}
 
-![Yearly screened women and HGSIL](fig/hgsil.png){#fig-hg}
+![Yearly screened women and HSIL](fig/hgsil.png){#fig-hg}
 
 ![Yearly screened women and suspected invasive lesions](fig/inv.png){#fig-mal}
 
@@ -161,7 +161,7 @@ The yearly number of screened women was positively associated with the observed 
 
 ## Key results
 
-By analyzing routinely collected healthcare data from 95,120 satisfactory cervical smears records in the ECDU, this study reported the trends in screening uptake and in the observed epithelial abnormalities. While a notable increase in annual screened women occurred from 1981 to 1992, it declined afterward. Women who engaged in sexual intercourse at a young age, and made the conscious decision to undergo routine cytological screening exhibited a higher probability of presenting with epithelial abnormalities. Furthermore, it was observed that these abnormalities were more prevalent among women who underwent the screening process at a relatively advanced age in comparison to their counterparts. The most common epithelial abnormality was LGSIL. The yearly utilization of cervical screening by cytology was positively associated with LGSIL and negatively associated with invasive lesions.
+By analyzing routinely collected healthcare data from 95,120 satisfactory cervical smears records in the ECDU, this study reported the trends in screening uptake and in the observed epithelial abnormalities. While a notable increase in annual screened women occurred from 1981 to 1992, it declined afterward. Women who engaged in sexual intercourse at a young age, and made the conscious decision to undergo routine cytological screening exhibited a higher probability of presenting with epithelial abnormalities. Furthermore, it was observed that these abnormalities were more prevalent among women who underwent the screening process at a relatively advanced age in comparison to their counterparts. The most common epithelial abnormality was LSIL. The yearly utilization of cervical screening by cytology was positively associated with LSIL and negatively associated with invasive lesions.
 
 This discrepancy between the recommended cervical cancer screening guidelines and the actual clinical practice was identified in a recent systematic review. Only six of 11 countries across North America, Europe, and Asia-Pacific have implemented comprehensive population-based screening programs. @Wang2022 This observation highlights a potential gap between policy recommendations and real-world implementation of cervical cancer prevention strategies.
 
@@ -191,7 +191,29 @@ The utilization of cervical cancer screening and burden of epithelial abnormalit
 
 # List of abbreviations
 
+AG-US: Atypical glandular cells of undermined significance
+
+ASC: Atypical Squamous Cells
+
+ASC-H: Atypical Squamous Cells-HSIL cannot be excluded
+
+ASC-US: Atypical squamous cell of undetermined significance
+
+CIN: Cervical intraepithelial neoplasia
+
 ECDU: Early Cancer Detection Unit
+
+HSIL: High grade intra-epithelial lesion
+
+HPV: Human papillomavirus
+
+LSIL: low grade squamous intra-epithelial lesion
+
+NILM: Negative for intraepithelial lesion or malignancy
+
+NOS: Not otherwise specified
+
+SCC: squamous cell carcinoma
 
 # List of tables
 
@@ -207,9 +229,9 @@ Figure 2 Temporal trend of squamous intra-epithelial lesions by year among women
 
 Figure 3 Temporal trend of premalignant and malignant findings by year among women screened at ECDU, Ain Shams University, 1981– 2022
 
-Figure 4 Yearly screened women and LGSIL
+Figure 4 Yearly screened women and LSIL
 
-Figure 5 Yearly screened women and HGSIL
+Figure 5 Yearly screened women and HSIL
 
 Figure 6 Yearly screened women and suspected invasive lesions
 
