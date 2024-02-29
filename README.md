@@ -1,2 +1,0 @@
-# cytology
-Cervical screening manuscript
