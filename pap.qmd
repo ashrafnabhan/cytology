@@ -1,8 +1,8 @@
 ---
 editor: visual
 bibliography: pap.bib
-csl: bmj.csl
-format: gfm
+csl: bmc-womens-health.csl
+format: docx
 ---
 
 ```{r echo=FALSE, include=FALSE}
@@ -39,17 +39,17 @@ Authors: Sahar Ezzelarab, Amro ElHusseiny, Magda Nasreldin, Radwa Ali, Ashraf Na
 
 Affiliation: Faculty of Medicine, Ain Shams University, Egypt
 
-Corresponding author: Radwa Ali, Department of Obstetrics and Gynecology, Faculty of Medicine, Ain Shams University, Abbassia, 11566, Cairo, Egypt - Email: radwarasheedy\@med.asu.edu.eg - ORCID: https://orcid.org/0000-0003-0230-0966
+Corresponding author: Ashraf Nabhan, Department of Obstetrics and Gynecology, Faculty of Medicine, Ain Shams University, Abbassia, 11566, Cairo, Egypt - Email: [anabhan\@med.asu.edu.eg](anabhan@med.asu.edu.eg) - ORCID: <https://orcid.org/0000-0003-4572-2210>
 
 # Abstract
 
-Background: cytological screening is a high impact practice for reducing cervical cancer incidence and mortality. While few studies examined the efforts to decrease cervical cancer’s burden in Egypt, no study has reported the temporal trends in cervical cancer screening practice and burden of epithelial abnormalities. We sought to fill this knowledge gap by identifying trends in screening practice and the prevalence of epithelial abnormalities.
+Background: Cytological screening remains a high impact practice, particularly in low resource settings, for preventing cervical cancer. The examination of screening practices over time and the prevalence of epithelial abnormalities have not been investigated in longitudinal studies in one of the largest countries in the Middle East and Africa.
 
-Methods: Routine healthcare data were collected from March 1981 to December 2022, at the Early Cancer Detection Unit, Ain Shams University Hospital in Egypt. Cervical smear was obtained using a standardized technique and sent to the cytopathology laboratory for conventional cytology examination. The results of the examined smears were reported according to The Bethesda System for Reporting Cervical Cytology. Data were analyzed to describe the trend of in the number of women screened each year and the prevalence of epithelial abnormalities in this period.
+Methods: Routine healthcare data were collected from March 1981 to December 2022, at the Early Cancer Detection Unit in a tertiary referral university hospital in Greater Cairo Region, Egypt. Cervical smear was obtained using a standardized technique and sent to the cytopathology laboratory for conventional cytology examination by expert pathologists. Data were analyzed to show the temporal trend of the number of women screened each year and the prevalence of epithelial abnormalities.
 
-Results: The results included data from 95120 women whose smears were satisfactory. The mean age of women at the time of screening was 38.5 (10.5). Abnormal epithelial cells were reported in 5174 women (5.44%). Of these epithelial abnormalities, the majority were low grade squamous intraepithelial lesions in 4144 women (4.36%). Other abnormalities included ASC in 378 women (0.40%), HSIL in 226 women (0.24%), AG cells NOS in 184 women (0.19%). adenocarcinoma in 165 women (0.17%), malignant SCC in 70 women (0.07%), and AG cells favor neoplastic in 7 women (0.01%). Women with an early age at first intercourse, who opted for routine cervical cytology screening, and who were older at screening were more likely to have epithelial abnormalities. The yearly number of screened women was positively associated with the observed LSIL (correlation coefficient \[95%CI\] = 0.84 \[0.72, 0.91\]), not significantly associated with HSIL (correlation coefficient \[95%CI\] = 0.26 \[-0.05, 0.52\]), and negatively associated with the observed suspected invasion (correlation coefficient \[95%CI\] = -0.55 \[-0.73, -0.29\]).
+Results: The results included data from 95120 women with satisfactory smears. The mean age (SD) of women at the time of screening was 38.5 (10.5). None of the included women received an HPV vaccine. Abnormal epithelial cells were reported in 5174 women (5.44%). Of these epithelial abnormalities, the majority were low-grade squamous intraepithelial lesion in 4144 women (4.36%). Other abnormalities included Atypical squamous cells in 378 women (0.40%), high-grade squamous intraepithelial lesion in 226 women (0.24%), Atypical glandular cells not otherwise specified in 184 women (0.19%), adenocarcinoma in 165 women (0.17%), squamous cell carcinoma in 70 women (0.07%), and Atypical glandular cells favor neoplastic in 7 women (0.01%). Women with an early age at first intercourse, those who opted for routine cervical cytology screening, and those who were older at screening were more likely to have epithelial abnormalities. The yearly number of screened women was positively associated with detecting Low-grade squamous intraepithelial lesion (correlation coefficient \[95%CI\] = 0.84 \[0.72, 0.91\]) and negatively associated with the observed squamous cell carcinoma (correlation coefficient \[95%CI\] = -0.55 \[-0.73, -0.29\]).
 
-Conclusions: The trend in cervical cytology is associated with an increase in low grade squamous intraepithelial lesions and a decline of suspected invasive lesions. The number of yearly screened women remains extremely small. Action is needed to scale up and sustain cervical cancer screening. 
+Conclusions: The small number of yearly screened Egyptian women and the temporal trend in epithelial abnormalities critically demonstrate the need for establishing and scaling-up a structured population-based program if we were to achieve the goal of eliminating cervical cancer.
 
 # Keywords
 
